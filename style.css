@@ -12,11 +12,31 @@ background-color:#9CEE59;
 }
 
 td {
+
 border: 2px solid black;
 }
 
 #kep {
-    z-index: 1;
+    
+    width: 940px;
 }
 
+#masodik {
+    margin: auto;
+    width: 940px;
+    background-color: white;
+}
 
+td a {
+    
+    text-decoration: none;
+}
+
+#td2 {
+text-align: left;
+}
+
+.fekete {
+    background-color: black;
+    color: white;
+}
