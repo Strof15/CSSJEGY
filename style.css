@@ -1,3 +1,13 @@
 body {
 background-color:#9CEE59;
 }
+
+#elso {
+    width: 980px;
+    
+    
+}
+
+table,td,tr {
+border: 2py solid black;
+}
