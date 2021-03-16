@@ -4,10 +4,19 @@ background-color:#9CEE59;
 
 #elso {
     width: 980px;
+    margin: auto;
+    left: 0;
+    right: 0;
     
     
 }
 
-table,td,tr {
-border: 2py solid black;
+td {
+border: 2px solid black;
 }
+
+#kep {
+    z-index: 1;
+}
+
+
