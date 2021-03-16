@@ -1,5 +1,6 @@
 body {
 background-color:#9CEE59;
+
 }
 
 #elso {
@@ -39,4 +40,14 @@ text-align: left;
 .fekete {
     background-color: black;
     color: white;
+}
+
+a {
+   color: #999999;
+}
+
+#tabla2 {
+    position: absolute;
+    top: 200px;
+    left: 100px;
 }
